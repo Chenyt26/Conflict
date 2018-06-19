@@ -9,11 +9,13 @@ cppDemo
 cppMsbuildDemo
 groovyGrailsDemo
 python2Demo
-python3Demo
+python3WebDemo
 python2WebDemo
 cCodesouceryDemo
 cppCMakeLiteOSDemo
 aspnetWebDemo
 goWebDemo
+phpWebDemo
+csharpDemo
 phpWebDemo
 csharpDemo
